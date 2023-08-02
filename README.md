@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mann Jaiswal</h1>
-<h3 align="center">A passionate Android developer from India. Debugging enthusiast, embracing challenges and turning bugs into features</h3>
+<h3 align="center">🚀 Aspiring Software Developer with a deep-seated love for Android Development. I thrive on the thrill of turning code into sleek, user-friendly apps that bring meaningful experiences to life.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannjaiswalmj&label=Profile%20views&color=0e75b6&style=flat" alt="mannjaiswalmj" /> </p>
@@ -9,11 +9,19 @@
 
 - 🌱 I’m currently learning **Jetpack compose**
 
-- 💬 Ask me about **Android, Kotlin, C++, Java**
+- 📚 Forever a student at heart, I'm fueled by curiosity and a burning desire to learn and innovate. My journey involves unraveling the complexities of the tech universe, one challenge at a time
+
+- 💬 Ask me about **Android, Kotlin, C++, Java, XML**
+
+- 💡 I believe in the power of technology to shape the future, and I'm on a mission to craft cutting-edge solutions that make a real impact.
 
 - 📫 How to reach me **mannjaiswalmj@gmail.com**
+  
+- 🌟 When I'm not tapping away on my keyboard, you'll find me exploring new trails, sipping on coffee, or engrossed in a sci-fi novel.
 
-- ⚡ Fun fact **Embracing bugs with a smile, because every issue is an opportunity to learn 🐞😄**
+- ⚡ Fun fact **Embracing bugs with a smile, because every issue is an opportunity to learn. 🐞**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,6 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mannjaiswalmj&show_icons=true&locale=en&layout=compact" alt="mannjaiswalmj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mannjaiswalmj&show_icons=true&locale=en" alt="mannjaiswalmj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mannjaiswalmj&" alt="mannjaiswalmj" /></p>
