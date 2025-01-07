@@ -1,7 +1,12 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+[//]: # (![MasterHead][https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif])
+
+
 <h1 align="center">Hi 👋, I'm Mann Jaiswal</h1>
 <h3 align="center">🚀 Aspiring Software Developer with a deep-seated love for Java & Android Development. I thrive on the thrill of turning code into sleek, user-friendly apps that bring meaningful experiences to life.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
+
+[//]: # (https://media.licdn.com/dms/image/v2/D4D12AQFAEA4kuPV1lg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721202639246?e=1741824000&v=beta&t=bEclG11znCGi5CCymGAcze-WoqMfqNXpXEpyyE1dUVc)
+[//]: # (https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannjaiswalmj&label=Profile%20views&color=0e75b6&style=flat" alt="mannjaiswalmj" /> </p>
 
